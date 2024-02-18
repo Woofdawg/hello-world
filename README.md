@@ -1,3 +1,5 @@
-# hello-world
-My very first repository on GitHub.
-A bit about myself: you don't know me.
+# Repository  
+First repository on GitHub
+Commit Changes and such...
+Soft wrap sounds like a tasty lunch.
+
